@@ -1,0 +1,32 @@
+Project: Unscramble Computer Science Problems.
+
+Analysis:
+
+0. Task0:
+- To fetch first and last record of a `list` in Python, directly access them by
+respective index of 0 and -1
+- Complexity: O(1)
+
+1. Task1:
+- This task involves in iterating over the entire list of input records.
+- Complexity: O(n)
+
+2. Task2:
+- This task requires iterating over the entire list of input call records.
+- Complexity: O(n)
+
+3. Task3:
+- This task requires iterating over the entire list of input call records.
+- Above iteration requires O(n) complexity.
+- But, we need to sort the output in lexciographic order using Python's 
+list.sorted() method.
+- Python list.sorted() has the complexity of O(n log n) complexity.
+- Complexity: O(n log n)
+
+4. Task4:
+- This task requires iterating over the entire list of input call records.
+- Above iteration requires O(n) complexity.
+- But, we need to sort the output in lexciographic order using Python's 
+list.sorted() method.
+- Python list.sorted() has the complexity of O(n log n) complexity.
+- Complexity: O(n log n)
